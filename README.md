@@ -18,6 +18,13 @@ In the repository you can find:
 * preprocessing_binary.r : the R code for preprocessing and XGB model with binary target (to repare / no repare)
 * randomforest_binary.r : the R code for H2O Random Forest with binary target (to repare / no repare)
 
+The original file from drivendata.org:
+* training_set.csv : the training set
+* training_set_labels.csv : labels for training set
+* test_set_values.csv : score set
+* SubmissionFormat.csv : submission format from drivendata competition
+
+
 For SAS:
 * sas_code.sas : the SAS code for data exploration and preprocessing
 * PumpIt2.zip : the SAS Miner Project
