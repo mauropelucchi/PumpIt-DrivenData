@@ -20,7 +20,7 @@ In the repository you can find:
 
 For SAS:
 * sas_code.sas : the SAS code for data exploration and preprocessing
-* SAS_Miner.zip : the SAS Miner Project
+* PumpIt2.zip : the SAS Miner Project
 
 # License
 
