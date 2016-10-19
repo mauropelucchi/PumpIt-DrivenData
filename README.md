@@ -11,6 +11,8 @@ During the Master BI and Big Data Analytics we present this work as project of D
 For SAS we use SAS Base (for pre-processing) and SAS Miner.
 In R, we use [H2O](http://h2o.ai)'s random forest to get a score 0.76. We also used a XGB. 
 
+In the repository you can find:
+* PumpIt_Presentation.pdf : the presentation of the final work with all details
 
 # License
 
