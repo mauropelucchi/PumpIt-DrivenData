@@ -13,6 +13,14 @@ In R, we use [H2O](http://h2o.ai)'s random forest to get a score 0.76. We also u
 
 In the repository you can find:
 * PumpIt_Presentation.pdf : the presentation of the final work with all details
+* preprocessing_and_xgb.R : the R code for preprocessing and XGB model
+* randomforest.r : the R code for H2O Random Forest
+* preprocessing_binary.r : the R code for preprocessing and XGB model with binary target (to repare / no repare)
+* randomforest_binary.r : the R code for H2O Random Forest with binary target (to repare / no repare)
+
+For SAS:
+* sas_code.sas : the SAS code for data exploration and preprocessing
+* SAS_Miner.zip : the SAS Miner Project
 
 # License
 
