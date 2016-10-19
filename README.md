@@ -29,6 +29,16 @@ For SAS:
 * sas_code.sas : the SAS code for data exploration and preprocessing
 * PumpIt2.zip : the SAS Miner Project
 
+On CartoDB there are a lot of nice maps:
+* [To repare / Total population maps](https://mauropelucchi.carto.com/viz/0911b77e-81aa-11e6-b45c-0e3ebc282e83/public_map)
+* [No repare / Total population maps](https://mauropelucchi.carto.com/viz/7eb99b28-81a9-11e6-a2ad-0e3ff518bd15/public_map)
+* [Odds ward vs to_repare waterpoint](https://mauropelucchi.carto.com/viz/2b6a4802-816b-11e6-ac02-0e3ebc282e83/embed_map)
+* [Ward vs to_repare vs management_type (profit / no profit / user group)](https://mauropelucchi.carto.com/viz/10848868-8184-11e6-bc81-0e3ebc282e83/embed_map)
+* [Outliers maps](https://mauropelucchi.carto.com/viz/8a53299a-819f-11e6-93aa-0e05a8b3e3d7/public_map)
+
+And the final work (for binary classification model):
+* [Maps to repare and no repare waterpoint](https://mauropelucchi.carto.com/viz/fc995c9a-8212-11e6-9e8e-0e3ff518bd15/public_map)
+
 # License
 
 This repository is released under the MIT license.
